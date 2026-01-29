@@ -6,7 +6,7 @@
  * In a Unix-type environment you can invoke the program like this:
  *    node charfreq.js < corpus.txt
  */
-
+//test
 // This class extends Map so that the get() method returns the specified
 // value instead of null when the key is not in the map
 class DefaultMap extends Map {
